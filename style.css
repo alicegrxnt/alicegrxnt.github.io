@@ -22,7 +22,7 @@ ul{
 }
 
 body > header 
-    {background-color: yellow;color: white;
+    {background-color: pink;color: white;
     display: flex;
     height: 11vh;
     align-items: center;
@@ -65,7 +65,7 @@ h2{
 }
 
 body > footer {
-    background-color: yellow;
+    background-color: pink;
     display: flex;
 }
 
